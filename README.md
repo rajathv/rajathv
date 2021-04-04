@@ -18,20 +18,20 @@
 </td>
    
 <td align="center" width="20%">
-<span><b><center>C#</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
+<span><b><center>Javascript</center></b></span><br>
+<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+<span><b><center>React Native</center></b></span><br>
+<img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span><br>
-<img src="https://img.icons8.com/nolan/50/matlab.png"/>
+<span><b><center>Java</center></b></span><br>
+<img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -40,8 +40,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/visual-studio.png"/>
+<span><b><center>Kony Visualizer</center></b></span><br>
+<img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/kony.png"/>
 </td>
 </tr>
 
