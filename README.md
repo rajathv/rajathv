@@ -109,5 +109,5 @@
 ![Rajath V github stats](https://github-readme-stats.vercel.app/api?username=rajathv&theme=dark&show_icons=true)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathv&layout=compact&hide=visualbasic)](https://github.com/rajathv/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rajathv.visitor-badge)
 
