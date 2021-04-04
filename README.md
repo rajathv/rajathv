@@ -18,8 +18,8 @@
 </td>
    
 <td align="center" width="20%">
-<span><b><center>Javascript</center></b></span><br>
-<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+<span><b><center>Android</center></b></span><br>
+<img src="https://img.icons8.com/cute-clipart/64/000000/android.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -39,9 +39,9 @@
 <img src="https://img.icons8.com/nolan/50/sql.png"/>
 </td>
 
-<td align="center" height"20%" width="20%">
-<span><b><center>Kony Visualizer</center></b></span><br>
-<img src="https://images.appypie.com/wp-content/uploads/2019/08/27072752/Kony-AppPlatform.png"/>
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span><br>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </td>
 </tr>
 
@@ -52,8 +52,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Windows 10</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/windows-10.png"/>
+<span><b><center>Temenos Infinity</center></b></span><br>
+<img src="https://img.icons8.com/doodle/48/000000/google-mobile--v1.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -64,13 +64,13 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> <br>
-<img src="https://img.icons8.com/color/50/000000/html-5.png"/>
-</td>
+<span><b><center>iOS</center></b></span> <br>
+<img src="https://img.icons8.com/nolan/64/ios-logo.png"/>
+ </td>
   
 <td align="center" width="20%">
-<span><b><center>CSS</center></b></span> <br>
-<img src="https://img.icons8.com/color/50/000000/css3.png"/>
+<span><b><center>Flutter</center></b></span> <br>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -94,8 +94,8 @@
 </td>
    
 <td align="center" width="20%">
-<span><b><center>3D modelling</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/3d-scale.png"/>
+<span><b><center>Drones</center></b></span><br>
+<img src="https://img.icons8.com/nolan/64/drone.png"/>
 </td>
 
 <td align="center" width="20%">
