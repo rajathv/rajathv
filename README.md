@@ -106,5 +106,5 @@
 </tbody>
 
 ## Stats
-![Harry-Rogers github stats](https://github-readme-stats.vercel.app/api?username=Harry-Rogers&theme=dark&show_icons=true)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Rogers&layout=compact&hide=visualbasic)](https://github.com/Harry-Rogers/github-readme-stats)
+![Rajath V github stats](https://github-readme-stats.vercel.app/api?username=rajathv&theme=dark&show_icons=true)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathv&layout=compact&hide=visualbasic)](https://github.com/rajathv/github-readme-stats)
