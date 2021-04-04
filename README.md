@@ -1,5 +1,5 @@
 ## About me
-### Hi my name is Rajath, I am a software developerwith a keen interest in robotics and engineering. I'm working in fintech company as a software developer.
+### Hi my name is Rajath, I am a software developer with a keen interest in robotics and engineering. I'm working in fintech company as a software developer.
 
 ## Contact me
 [![website](https://img.icons8.com/fluent/50/000000/domain.png)](https://rajathv.com/) 
