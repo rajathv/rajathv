@@ -41,7 +41,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Kony Visualizer</center></b></span><br>
-<img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/kony.png"/>
+<img src="https://images.appypie.com/wp-content/uploads/2019/08/27072752/Kony-AppPlatform.png"/>
 </td>
 </tr>
 
