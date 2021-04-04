@@ -39,7 +39,7 @@
 <img src="https://img.icons8.com/nolan/50/sql.png"/>
 </td>
 
-<td align="center" width="20%">
+<td align="center" height"20%" width="20%">
 <span><b><center>Kony Visualizer</center></b></span><br>
 <img src="https://images.appypie.com/wp-content/uploads/2019/08/27072752/Kony-AppPlatform.png"/>
 </td>
