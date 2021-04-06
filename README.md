@@ -3,9 +3,10 @@
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h3>Glad to see you here!</h3>  
-## About me
-Hi my name is Rajath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am a software developer with a keen interest in robotics and engineering. I'm working in fintech company as a software developer.
+<h3>Glad to see you here!</h3> 
+
+<h2>About me</h2>
+<h3>I am a software developer with a keen interest in robotics and engineering. I'm working in fintech company as a software developer.</h3>
 
 ## Contact me
 [![website](https://img.icons8.com/fluent/50/000000/domain.png)](https://rajathv.com/) 
