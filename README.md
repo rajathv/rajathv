@@ -120,6 +120,7 @@
 ## Stats
 ![Rajath V github stats](https://github-readme-stats.vercel.app/api?username=rajathv&theme=dark&show_icons=true)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathv&layout=compact&hide=visualbasic)](https://github.com/rajathv/github-readme-stats)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajathv&theme=github)
 
 <!-- retro visitor counter -->  
 <p align="center">   
