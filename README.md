@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 <h3>I am a software developer with a keen interest in robotics and engineering. I'm working in fintech company as a software developer.</h3>
-
+<a href="https://app.daily.dev/rvg"><img src="https://api.daily.dev/devcards/f61582da489244268a2ad72ed2b509ca.png?r=bvo" width="400" alt="Rajath Gowda's Dev Card"/></a>
 ## Contact me
 [![website](https://img.icons8.com/fluent/50/000000/domain.png)](https://rajathv.com/) 
 [![github](https://img.icons8.com/fluent/50/000000/github.png)](https://github.com/rajathv) 
